@@ -1,4 +1,0 @@
-Project204.MainActivity, Project204;md5d34bdb78f7cb288b354e5431aa78a9b8.MainActivity
-Project204.MainActivity, Project204, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d34bdb78f7cb288b354e5431aa78a9b8.MainActivity
-Project204.MainActivity;md5d34bdb78f7cb288b354e5431aa78a9b8.MainActivity
-project204.MainActivity;md5d34bdb78f7cb288b354e5431aa78a9b8.MainActivity
